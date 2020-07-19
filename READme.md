@@ -1,4 +1,4 @@
- Calculator<br>
+ Calculator
  This is a calculator which helps you to find your name in Akan System}, {19-07-2020}
  By **{Angela Apondi}**
  Description
