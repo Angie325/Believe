@@ -1,15 +1,18 @@
-let year= date[0] 
-//alert year
+function nameCalculator(){
+    let d = document.getElementById(date).value;
+    let=d.split('-')
+    //alert (date)
+//alert (year)
 let month =parseInt(date[1])
-//alert month
+//alert (month)
 let day =parseInt(date[2])
-//alert date 
+//alert (date) 
 let cc = parseInt(year.slice [0,2])
-//alert cc
+//alert (cc)
 let yy = parseInt(year.slice[2,4])
-//alert yy
+//alert (yy)
 let daysOfTheWeek=math.floor ( ( ((cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(month+1)/10)) + day ) % 7)
-//alert daysOfTheWeek
+//alert (daysOfTheWeek)
 
 
 
