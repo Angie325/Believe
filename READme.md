@@ -1,8 +1,9 @@
- {Calculator}
- {This is a calculator which helps you to find your name in Akan System}, {19-07-2020}
+ Calculator<br>
+ This is a calculator which helps you to find your name in Akan System}, {19-07-2020}
  By **{Angela Apondi}**
  Description
-{The application was calculated using Javascript,it is used to calculate the day of birth in Akan System.This is a System in Ghana  whereby people were named according to days of the week }
+The application was calculated using Javascript,it is used to calculate the day of birth in Akan System.This is a System in Ghana  whereby people were named according to days of the week 
+
 Setup/Installation Requirements
 * Gender
 * Last two digits of year of birth
@@ -10,7 +11,7 @@ Setup/Installation Requirements
 * month of birth
 
 Known Bugs
-{Sometimes your answer may come out with a decimal place,no need to worry incase it happens. }
+Sometimes your answer may come out with a decimal place,no need to worry incase it happens. 
 Technologies Used
 Technlologies that have been used include html,css and javaScript
 Support and contact details
