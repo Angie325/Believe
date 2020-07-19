@@ -29,13 +29,4 @@ if (gender == 'male'){
      alert ( 'You were born on ' +dayy['daysOfTheWeek'] + 'and your akan name is'+femaleNames[daysOfTheWeek])
  }  
 
-} 
 
-
-
-
-
-
-    
-
-    
