@@ -1,4 +1,5 @@
  Calculator
+
  This is a calculator which helps you to find your name in Akan System}, {19-07-2020}
  By **{Angela Apondi}**
  Description
@@ -10,12 +11,16 @@ Setup/Installation Requirements
 * First two digits of century of birth
 * month of birth
 
-Known Bugs
+KNOWN BUGS
+
 Sometimes your answer may come out with a decimal place,no need to worry incase it happens. 
-Technologies Used
+TECHNOLOGIES USED
+
 Technlologies that have been used include html,css and javaScript
 Support and contact details
-{Incase of anything,feel free to reach out to me on this number 0718376404.}
+
+Incase of anything,feel free to reach out to me on this number 0718376404.
+LICENSE AND COPYRIGHT
 License alicensed under [MIT license] (https://choosealicense.com/licenses/mit/) Copyright (c) {2020} Angela Apondi Copyright.
 
 
