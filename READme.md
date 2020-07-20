@@ -2,14 +2,14 @@
 
  This is a calculator which helps you to find your name in Akan System}, {19-07-2020}
 
- By **{Angela Apondi}**
+ By Angela Apondi
 
  <strong>DESCRIPTION</strong>
 
 The application was calculated using Javascript,it is used to calculate the day of birth in Akan System.This is a System in Ghana  whereby people were named according to days of the week 
 
-<strong>SETUP AND INSTALLATION REQUIREMENTS</strong
->
+<strong>SETUP AND INSTALLATION REQUIREMENTS</strong>
+
 Inorder for you to use this calculator properly,you will need to input the followin data;
 * Gender
 * Last two digits of year of birth
